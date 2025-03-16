@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShareBundleActivity</string>
+    <string name="name">Enter Your Name</string>
+    <string name="f_name">Enter Your Fathers Name</string>
+    <string name="snme_name">Enter Your Surname</string>
+    <string name="rl_no">Enter Your Roll No</string>
+    <string name="gobtn">GO TO NEXT ACTIVITY</string>
+</resources>
